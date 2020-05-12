@@ -1,0 +1,17 @@
+[{
+  "name": "About",
+  "description": "Hello,this is a personal blog. It expresses my personal opinions and it is not affiliated with my employer, neither does it reprepresent the opinions of positions of my employer.Kind regards, Ulrich",
+  "body": "Hello,this is a personal blog. It expresses my personal opinions and it is not affiliated with my employer, neither does it reprepresent the opinions of positions of my employer.Kind regards, Ulrich",
+  "url": "http://www.managementletters.eu/about/"
+},{
+  "name": "Ideas",
+  "description": "A list of content ideas for this blog.",
+  "body": " Some ideas for The Management Letters  Identification of staff with companies Multiple cultures at work financials .. All posts should be emotionally engaging and interesting Maybe some marxism? Something EU related, such as an essay on regulations Summarize some of the Scrum articles that I found &amp;hellip;  About the structure of articles  Articles should be around 500 words max Articles need to have proper references Should be written in good English  TODOs  check which areas are less covered in literature Add discussion forum / disqus, possibly muut. current theme: BluestNight Based on Hugo  Links  http://www.deepl.com  ",
+  "url": "http://www.managementletters.eu/posts/ideas/"
+},{
+  "name": "The Management Letters",
+  "description": "The Management Letters is a collection of personal letters to its readers related to management. It is a personal blog and therefore reflects personal opinions only and not those of my employer.",
+  "body": "The Management Letters is a collection of personal letters to its readers related to management. It is a personal blog and therefore reflects personal opinions only and not those of my employer.",
+  "url": "http://www.managementletters.eu/posts/my-first-post/"
+}
+]

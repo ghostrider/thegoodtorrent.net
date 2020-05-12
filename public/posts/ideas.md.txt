@@ -1,0 +1,49 @@
+---
+title: "Ideas"
+date: 2017-08-29T13:33:10+02:00
+description: "A list of content ideas for this blog."
+---
+
+Some ideas for The Management Letters
+-----------------------------------------
+
+
+* Identification of staff with companies
+* Multiple cultures at work
+* financials .. 
+* All posts should be emotionally engaging and interesting
+* Maybe some marxism? 
+* Something EU related, such as an essay on regulations 
+
+* Summarize some of the Scrum articles that I found ... 
+
+* Why does a unit have the leader it has? Is the leader a result of subconscious group processes (bottom up) or rather of a top down process? When is which leader chosen?  This question is not straight forward. For example, subconscious group processes might evoke some sort of a fitting approach in upper layers to choose a leader that fits the group. 
+* Elaborate why every organizational activity is essentially an activity to establish a certain power structure.  Why do you think that organizational culture activities are locking people in a certain behaviour?  Why are certain approaches, like SCRUM, mechanisms to create processes that lock people in?  Is establishing processes about reducing innovation and critical thinking? ... thus again establishing a power structure? Note: Not all power structures are evil. 
+
+
+About the structure of articles
+-----------------------------------
+
+* Articles should be around 500 words max
+* Articles need to have proper references
+* Should be written in good English
+
+
+
+TODOs
+------------
+
+* check which areas are less covered in literature
+* Add discussion forum / disqus, possibly muut. 
+* current theme: BluestNight
+* Based on Hugo 
+
+Links
+------------
+
+* Translation services: http://www.deepl.com
+
+
+
+
+

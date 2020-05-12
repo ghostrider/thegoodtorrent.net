@@ -1,0 +1,46 @@
+baseURL = "http://www.thegoodtorrent.net"
+languageCode = "en-us"
+title = "The Good Torrent"
+theme = "hugo-coder"
+
+
+paginate = 20             # Number of posts to show before paginating
+enableRobotsTXT = true    # Suggested, enable theme robots.txt file
+SectionPagesMenu = "main" # Enable menu system for lazy bloggers
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[Params]
+    author = "Ulrich Staudinger"
+    info = "The Good Torrent - a site for legal and socially relevant torrents"
+    description = "The Good Torrent is a site that tracks legal and socially relevant torrents for the greater good."
+    keywords = "torrents, bittorrent, legal"
+    avatarurl = "images/avatar.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "You are responsible for your actions."
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"

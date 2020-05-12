@@ -1,0 +1,38 @@
+baseURL = "http://www.managementletters.eu/"
+languageCode = "en-us"
+title = "The Management Letters"
+theme = "BluestNight"
+
+paginate = "20" # Number of posts per page draft: true
+
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author]
+    name = "John Smith"
+    bio = "John Smith's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+#    avatar = "img/avatar.png"
+
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 10 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+
+
+
+[permalinks]
+    post = "/:year/:month/:slug/"
+    page = "/:slug/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[params]
+    keywords = ["default", "keywords", "if", "no", "front", "matter"]
+    description = "A description that will appear as a default if front matter does not exist"
