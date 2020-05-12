@@ -1,215 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The Management Letters</title>
-    <link>https://www.managementletters.eu/posts/</link>
-    <description>Recent content in Posts on The Management Letters</description>
+    <title>Posts on The Good Torrent</title>
+    <link>https://www.thegoodtorrent.net/posts/</link>
+    <description>Recent content in Posts on The Good Torrent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.managementletters.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.thegoodtorrent.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Tools for self-reflection: Tarot</title>
-      <link>https://www.managementletters.eu/posts/tarot_for_self_reflection/</link>
-      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/tarot_for_self_reflection/</guid>
-      <description>We all feel the need to self-reflect. Leadership is all about self-reflection, exploring your perceptions and emotions.
-We might be caught in one interpretation of a situation and be unable to see clearly through the clutter to give it another interpretation. Tarot is one way to look at it differently. Lay the cards for a situation, look at them, interpret them and reflect if the interpretation indicated by the cards could be another explaination.</description>
-    </item>
     
     <item>
-      <title>What is management</title>
-      <link>https://www.managementletters.eu/posts/what_is_management_prt2/</link>
-      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      <title>The Good Torrent</title>
+      <link>https://www.thegoodtorrent.net/posts/start/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.managementletters.eu/posts/what_is_management_prt2/</guid>
-      <description>Good definition from a source to be quoted properly:
-&amp;ldquo;Management can be thought of as a noun: actors who aspire to influence the behavior or performance of a system&amp;rdquo; - slightly paraphrased.
-This statement expresses a system thinking context, contains actors and an element of force.</description>
-    </item>
-    
-    <item>
-      <title>Carl Jung - interviews on Google Play</title>
-      <link>https://www.managementletters.eu/posts/jung/</link>
-      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/jung/</guid>
-      <description>Google Play has an amazing set of interviews with great minds like Carl Jung. Here&amp;rsquo;s the link to an interview of Carl Jung made in the 20th century.</description>
-    </item>
-    
-    <item>
-      <title>Methodologies for co-creating knowledge</title>
-      <link>https://www.managementletters.eu/posts/what_is_management_prt1/</link>
-      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/what_is_management_prt1/</guid>
-      <description>&amp;hellip; Seems as if the Society of Natural Sciences Switzerland is keen on co-producing knowledge. Their website lists several techniques: https://naturalsciences.ch/topics/co-producing_knowledge/methods</description>
-    </item>
-    
-    <item>
-      <title>Technicalities</title>
-      <link>https://www.managementletters.eu/posts/technicalities/</link>
-      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/technicalities/</guid>
-      <description>My hoster decided to discontinue the product line I use for this blog.
-As I have a fairly stable infra at home, I got an account at a DDNS provider and will update the CNAME entries to point to my local server.
-I need to move my stuff from my hoster to my own server in a research break, such as in 8 weeks.
-That&amp;rsquo;s all to say about it.</description>
-    </item>
-    
-    <item>
-      <title>Journal rankings</title>
-      <link>https://www.managementletters.eu/posts/journal_rankings/</link>
-      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/journal_rankings/</guid>
-      <description>Journals are not equal. Some are more relevant than others, and some have better quality. Journals also have an impact factor, which tells how often studies from this journal are cited in articles, relative to other journals. Details about the impact factor calculation are available from the calculators, such as Web of Science.
-A gap is closed by the Academic Journal Guide that publishes a ranking of journals and classifies them from 1 to 4+, where 4+ is the best ranking.</description>
-    </item>
-    
-    <item>
-      <title>Power</title>
-      <link>https://www.managementletters.eu/posts/power/</link>
-      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/power/</guid>
-      <description>Power is a corruptor, it corrupts people without their knowledge.
-According to Sturm and Antonakis (n.d.), &amp;ldquo;power is having the discretion and the means to asymmetrically enforce one&amp;rsquo;s will over others&amp;rdquo;. Moderator variables exist, which influence pro- and antisocial outcomes. A key in power is its assymetry. Having power needs subjects to exercise power on. Any power relation is therefore at least dyadic. Power relations can exist openly or in a concealed way.</description>
-    </item>
-    
-    <item>
-      <title>Thesis directory</title>
-      <link>https://www.managementletters.eu/posts/thesis_examples/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/thesis_examples/</guid>
-      <description>Here&amp;rsquo;s an unordered list of DBA theses:
- https://livrepository.liverpool.ac.uk/3009313/1/200898279_Aug2017.pdf https://livrepository.liverpool.ac.uk/2008831/4/CrockettLis_Jan2015_2008831.pdf  </description>
-    </item>
-    
-    <item>
-      <title>Going in a circle, from latex&#43;bibtex to pandoc to latex&#43;bibulous</title>
-      <link>https://www.managementletters.eu/posts/back_to_latex/</link>
-      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/back_to_latex/</guid>
-      <description>So, today&amp;rsquo;s the day I finish my pandoc experiment of writing my academic essays in markdown and pandoc. You might wonder why. The most important reasons where:
- Even more complex tool chain than latex: pandoc is written in Haskell and I say, with a degree in computer science, it&amp;rsquo;s a pain in the *** to install. Different repositories, different install tool chains (cabal vs. stack), different versions, different binary versions in debian repositories, differences everywhere!</description>
-    </item>
-    
-    <item>
-      <title>Useful statistics packages for R for researchers</title>
-      <link>https://www.managementletters.eu/posts/rhandbook/</link>
-      <pubDate>Thu, 08 Mar 2018 12:30:00 +0200</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/rhandbook/</guid>
-      <description>References  Today, I&amp;rsquo;d like to briefly mention a comprehensive, very practical website that shows how to use R and its extension packages for various statistical procedures as we encounter them in management and sociological research. In a structured way, Mangiafico (2016) presents practical examples, including R code, of every day activities. For example, how to use the likert package of R to work with Likert scale data.</description>
-    </item>
-    
-    <item>
-      <title>Natural language processing, support for qualitative research and
-automation
-</title>
-      <link>https://www.managementletters.eu/posts/nlp/</link>
-      <pubDate>Mon, 26 Feb 2018 13:30:00 +0200</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/nlp/</guid>
-      <description>Some links that might prove valuable for later.
- http://opennlp.apache.org/ http://ctakes.apache.org/index.html https://deeplearning4j.org/ https://cran.r-project.org/web/packages/tm/index.html http://web.stanford.edu/class/cs224n/ https://nlp.stanford.edu/  And here a good introduction to R and Text Mining
- https://rstudio-pubs-static.s3.amazonaws.com/265713_cbef910aee7642dc8b62996e38d2825d.html https://togaware.com/onepager/  There&amp;rsquo;s a good deep learning library, in python
- https://pytorch.org  </description>
-    </item>
-    
-    <item>
-      <title>Waterfall vs Agile</title>
-      <link>https://www.managementletters.eu/posts/waterfall_vs_agile/</link>
-      <pubDate>Tue, 20 Feb 2018 13:30:00 +0200</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/waterfall_vs_agile/</guid>
-      <description>Recently, on LinkedIn, a contact of mine wrote an interesting article about Waterfall vs Agile. Malinowski&amp;rsquo;s article expresses the opinion and observation that, nowadays, people see Waterfall software delivery methodologies as bad and Agile practices as the saviour of us all. I share his observation. Actually, I&amp;rsquo;d go that far and say that we need to have waterfall methodologies in place to ensure software deliveries within certain boundaries. As an example, consider a project that needs to deliver a large functionality within a fixed timeframe and where delivery problems would lead to overrun on time.</description>
-    </item>
-    
-    <item>
-      <title>What is management</title>
-      <link>https://www.managementletters.eu/posts/co-creating-knowledge/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/co-creating-knowledge/</guid>
-      <description>My stance References  My stance First things first, according to Dictionary.com (n.d.) the roots of manage date back to Italy and Latin. In its origin, manage stems from manege and means to train, lead, or walk with the horses. In the figurative sense, we could just replace horses with &amp;ldquo;X&amp;rdquo;, such as machines, events, humans, and we would end up with a nice picture of a manager training, leading, or running the subject under management.</description>
-    </item>
-    
-    <item>
-      <title>Installing pandoc, pandoc-citeproc-preamble, etc.</title>
-      <link>https://www.managementletters.eu/posts/installing_pandoc/</link>
-      <pubDate>Sun, 31 Dec 2017 13:30:00 +0200</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/installing_pandoc/</guid>
-      <description>The following lines document how I tried to upgrade pandoc and some people might encounter the same issues as me. No value for anyone else.
-I use pandoc, which is a pain to install manually. For the desparate stumbler upon my page and to jump right to a conclusion, I do not use cabal, but stack, as outlined here: https://pandoc.org/installing.html, I also use https://github.com/lierdakil/pandoc-crossref, which I cloned and in there I ran stack setup;stack install: it takes ages.</description>
-    </item>
-    
-    <item>
-      <title>Constructivism</title>
-      <link>https://www.managementletters.eu/posts/practicing_phenomenology/</link>
-      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/practicing_phenomenology/</guid>
-      <description>My stance Social Constructivism Key terms in phenomenology  My stance Having read about positivism and constructivism in a sociological context, I have become convinced that my attitude can be best described as constructivism. Positivism appears to be too rigid and too deterministic for sociological inquiries. My main critique with positivism is, it assumes experiment design and repeatability. While some social experiments do work and are repeatable, such as the well known experiment of a &amp;ldquo;sick&amp;rdquo; person collapsing on the street and analyzing the response of public, there are many more experiments that depend on many factors.</description>
-    </item>
-    
-    <item>
-      <title>My bibliography file and its entries</title>
-      <link>https://www.managementletters.eu/posts/bib_test/</link>
-      <pubDate>Mon, 16 Oct 2017 13:30:00 +0200</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/bib_test/</guid>
-      <description>Introduction Types of references and bibliography entries  Web references Books  Simple book Book with an edition Book with edition, available online Book with an editor Referencing the works of an author in an edited book  Articles in Journals  Article, single author, available at some URL Article, single author, available at some DOI Article, five authors: et al   Remarks References  Introduction This document exemplifies the bibtex entries and structures that I use to manage my research related bibliography.</description>
-    </item>
-    
-    <item>
-      <title>My publishing tool chain</title>
-      <link>https://www.managementletters.eu/posts/publishing/</link>
-      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/publishing/</guid>
-      <description>Introduction The following paragraphs describe my publishing tool chain. I am working on my doctorate right now, therefore, my needs are pretty clear: (a) I need to maintain a bibliography, (b) I need to publish to various target formats from one source file, and &amp;copy; References and quoting needs to follow my faculty&amp;rsquo;s standards.
-Bibliography My bibliography is very important for me, it contains an almost complete history of readings and research.</description>
-    </item>
-    
-    <item>
-      <title>Installing R from scratch</title>
-      <link>https://www.managementletters.eu/posts/install_r/</link>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/install_r/</guid>
-      <description>So, I set up a brand new laptop from scratch. I took debian 9. In order to get R, I fetched the source code from CRAN.
-I had to install the following dependencies upfront:
-apt-get install build-essential apt-get install fort77 apt-get install xorg-dev apt-get install liblzma-dev libblas-dev gfortran apt-get install gcc-multilib apt-get install gobjc++ apt-get install libreadline-dev apt-get install libbz2-dev apt-get install libpcre3 libpcre3-dev apt-get install libcurl4-openssl-dev  Then a simple .</description>
-    </item>
-    
-    <item>
-      <title>Ideas</title>
-      <link>https://www.managementletters.eu/posts/ideas/</link>
-      <pubDate>Tue, 29 Aug 2017 13:33:10 +0200</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/ideas/</guid>
-      <description>Some ideas for The Management Letters  Identification of staff with companies Multiple cultures at work financials .. All posts should be emotionally engaging and interesting Maybe some marxism? Something EU related, such as an essay on regulations
- Summarize some of the Scrum articles that I found &amp;hellip;
- Why does a unit have the leader it has? Is the leader a result of subconscious group processes (bottom up) or rather of a top down process?</description>
-    </item>
-    
-    <item>
-      <title>The Management Letters</title>
-      <link>https://www.managementletters.eu/posts/my-first-post/</link>
-      <pubDate>Sun, 27 Aug 2017 18:00:00 +0200</pubDate>
-      
-      <guid>https://www.managementletters.eu/posts/my-first-post/</guid>
-      <description>The Management Letters is a collection of personal letters to its readers. They try to focus on management related topics. It is also a personal blog and therefore reflects personal opinions, too.</description>
+      <guid>https://www.thegoodtorrent.net/posts/start/</guid>
+      <description>&lt;p&gt;Not much here, but our true north is &amp;ldquo;do good&amp;rdquo;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

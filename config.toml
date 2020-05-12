@@ -1,4 +1,4 @@
-baseURL = "http://www.thegoodtorrent.net"
+baseURL = "https://www.thegoodtorrent.net"
 languageCode = "en-us"
 title = "The Good Torrent"
 theme = "hugo-coder"
@@ -14,14 +14,14 @@ pygmentscodefencesguesssyntax = true
 
 
 [Params]
-    author = "Ulrich Staudinger"
+    author = "The Good Torrent"
     info = "The Good Torrent - a site for legal and socially relevant torrents"
     description = "The Good Torrent is a site that tracks legal and socially relevant torrents for the greater good."
     keywords = "torrents, bittorrent, legal"
-    avatarurl = "images/avatar.jpg"
+#    avatarurl = "images/avatar.jpg"
 
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+#    favicon_32 = "/img/favicon-32x32.png"
+#    favicon_16 = "/img/favicon-16x16.png"
 
     footercontent = "You are responsible for your actions."
 
@@ -31,7 +31,7 @@ pygmentscodefencesguesssyntax = true
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    #custom_css = ["css/custom.css"]
 
 
 
