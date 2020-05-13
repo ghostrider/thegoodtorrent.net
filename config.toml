@@ -1,4 +1,4 @@
-baseURL = "https://www.thegoodtorrent.net"
+baseURL = "https://thegoodtorrent.net"
 languageCode = "en-us"
 title = "The Good Torrent"
 theme = "hugo-coder"
