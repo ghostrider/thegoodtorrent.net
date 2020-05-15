@@ -9,3 +9,7 @@ menu: "main"
 # Academic data sets and file
 
 * http://academictorrents.com/
+
+# Slide decks and unsorted
+
+* https://fosdem.org/2020/schedule/event/file_sharing_and_storage_for_human_rights_organizations/
