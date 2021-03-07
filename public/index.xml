@@ -6,10 +6,20 @@
     <description>Recent content on The Good Torrent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Sep 2017 10:21:32 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.thegoodtorrent.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stack Exchange Data Dump</title>
+      <link>https://www.thegoodtorrent.net/posts/mldata/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thegoodtorrent.net/posts/mldata/</guid>
+      <description>&lt;p&gt;Stack Exchange publishes a full data dump for ML: &lt;a href=&#34;https://archive.org/details/stackexchange&#34;&gt;https://archive.org/details/stackexchange&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Good Torrent</title>
@@ -27,102 +37,13 @@
       <pubDate>Sat, 16 Sep 2017 10:21:32 +0200</pubDate>
       
       <guid>https://www.thegoodtorrent.net/links/</guid>
-      <description>&lt;p&gt;Links to influencers, researchers and research papers. Somewhat categorized.&lt;/p&gt;
-&lt;h1 id=&#34;management-research-and-academia&#34;&gt;Management research and academia&lt;/h1&gt;
-&lt;h2 id=&#34;people&#34;&gt;People&lt;/h2&gt;
-&lt;h3 id=&#34;management-professors&#34;&gt;Management professors&lt;/h3&gt;
+      <description>&lt;h1 id=&#34;academic-data-sets-and-file&#34;&gt;Academic data sets and file&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.hbs.edu/faculty/Pages/profile.aspx?facId=6532&#34;&gt;Michael Porter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mintzberg.org/&#34;&gt;Henry Mintzberg&lt;/a&gt; - organisational design, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sbs.ox.ac.uk/community/people/bent-flyvbjerg&#34;&gt;Bent Flyvberg&lt;/a&gt; - megaprojects, at Said - I stumbled upon Flyvbjerg through the LSE public lectures series&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sbs.ox.ac.uk/community/people/alexander-budzier&#34;&gt;Alexander Budzier&lt;/a&gt; - megaprojects, also at Said&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.uts.edu.au/staff/stewart.clegg&#34;&gt;Stewart Clegg&lt;/a&gt; - power, management, &amp;hellip;&lt;/li&gt;
-&lt;li&gt;Stefano Brusoni - co chair of division Technology and Innovation of the Academy of Management, local Swiss chapter: &lt;a href=&#34;http://www.timgroup.ethz.ch&#34;&gt;http://www.timgroup.ethz.ch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://academictorrents.com/&#34;&gt;http://academictorrents.com/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;other-professors-and-authors&#34;&gt;Other professors and authors&lt;/h3&gt;
+&lt;h1 id=&#34;slide-decks-and-unsorted&#34;&gt;Slide decks and unsorted&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.maxvanmanen.com/&#34;&gt;Max van Manen&lt;/a&gt; - great name in phenomenology &amp;hellip;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/profile/Amedeo_Giorgi/publications&#34;&gt;Amedeo Giorgi&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://za.linkedin.com/in/hennie-van-der-mescht-02b2ba7&#34;&gt;Hennie van der Mescht&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://kieranhealy.org/&#34;&gt;Kieran Healy&lt;/a&gt; - sociologist. Pandoc.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mitsloan.mit.edu/faculty-and-research/faculty-directory/detail/?id=121&amp;amp;co_list=F&#34;&gt;Edgar Schein&lt;/a&gt; - The Schein.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://michiganross.umich.edu/faculty-research/faculty/karl-weick&#34;&gt;Karl Weick&lt;/a&gt; - Sensemaking, etc.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.damore-mckim.northeastern.edu/faculty/r/raelin-joseph&#34;&gt;Joseph Raelin&lt;/a&gt; - corporate learning, &amp;ldquo;leaderful practice&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Reg_Revans&#34;&gt;Reg Revans&lt;/a&gt; - deceased, Action Learning, interesting life.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;journals&#34;&gt;Journals&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://aom.org/Publications/AMJ/Welcome-to-AMJ.aspx&#34;&gt;Academy of Management Journal&lt;/a&gt; - empirical, quanitative emphasize; they also host a community of interest groups, etc.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.journals.elsevier.com/european-management-journal/&#34;&gt;European Management Journal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://journals.sagepub.com/home/jom&#34;&gt;Journal of Management&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://journals.sagepub.com/home/jlo&#34;&gt;Journal of Leadership and Organizational Studies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://journals.sagepub.com/home/arj&#34;&gt;Action Research&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;research-theories-methodologies-etc&#34;&gt;Research, theories, methodologies, etc.&lt;/h2&gt;
-&lt;h3 id=&#34;phenomenology&#34;&gt;Phenomenology&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://eprints.qut.edu.au/2893/1/2893.pdf&#34;&gt;https://eprints.qut.edu.au/2893/1/2893.pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://phenomenologyblog.com&#34;&gt;http://phenomenologyblog.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Giorgi&amp;rsquo;s method in secondary literature: &lt;a href=&#34;http://goo.gl/PqJU1C&#34;&gt;http://goo.gl/PqJU1C&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;See Max van Maanen, above - Hermeneutic phenomenology&lt;/li&gt;
-&lt;li&gt;van Kaam (1966) - transcendental phenomenology&lt;/li&gt;
-&lt;li&gt;Colaizzi (1978) - transcendental phenomenology&lt;/li&gt;
-&lt;li&gt;Moustakas (1994) - transcendental phenomenology&lt;/li&gt;
-&lt;li&gt;Giorgi (1985) - transcendental phenomenology&lt;/li&gt;
-&lt;li&gt;IPA - Interpretive Phenomenological Analysis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;grounded-theory&#34;&gt;Grounded theory&lt;/h3&gt;
-&lt;p&gt;Comparison between grounded theory and phenomenology: &lt;a href=&#34;https://goo.gl/Q2VYy4&#34;&gt;https://goo.gl/Q2VYy4&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;phronetic-social-research&#34;&gt;Phronetic social research&lt;/h3&gt;
-&lt;p&gt;Brief intro by Bent Flyvberg: &lt;a href=&#34;https://www.linkedin.com/pulse/what-phronesis-phronetic-social-science-bent-flyvbjerg-%E5%82%85%E4%BB%A5%E6%96%8C-/&#34;&gt;https://www.linkedin.com/pulse/what-phronesis-phronetic-social-science-bent-flyvbjerg-%E5%82%85%E4%BB%A5%E6%96%8C-/&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;sites&#34;&gt;Sites&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.researchgate.com&#34;&gt;https://www.researchgate.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://thegreatthinkers.org&#34;&gt;http://thegreatthinkers.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://leo.org&#34;&gt;http://leo.org&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://deepl.com&#34;&gt;http://deepl.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;thesis-directories-thesis-related&#34;&gt;Thesis directories, Thesis related&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://livrepository.liverpool.ac.uk/view/divisions/sch=5Fman&#34;&gt;https://livrepository.liverpool.ac.uk/view/divisions/sch=5Fman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ethos.bl.uk/Home.do&#34;&gt;https://ethos.bl.uk/Home.do&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.doctoratehub.com&#34;&gt;https://www.doctoratehub.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.vitae.ac.uk&#34;&gt;https://www.vitae.ac.uk&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;technicalities-publishing-related-etc&#34;&gt;Technicalities, publishing related, etc.&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.chriskrycho.com/2015/academic-markdown-and-citations.html&#34;&gt;http://www.chriskrycho.com/2015/academic-markdown-and-citations.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://sylvaindeville.net/2015/07/17/writing-academic-papers-in-plain-text-with-markdown-and-jupyter-notebook/&#34;&gt;https://sylvaindeville.net/2015/07/17/writing-academic-papers-in-plain-text-with-markdown-and-jupyter-notebook/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.soimort.org/notes/161117/&#34;&gt;https://www.soimort.org/notes/161117/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/tompollard/phd_thesis_markdown&#34;&gt;https://github.com/tompollard/phd_thesis_markdown&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://infolib.vnua.edu.vn/HUA/UpLoadFiles/Cite%20them%20right.PDF&#34;&gt;http://infolib.vnua.edu.vn/HUA/UpLoadFiles/Cite%20them%20right.PDF&lt;/a&gt; - Cite them right, as PDF &amp;hellip;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;pandoc&#34;&gt;Pandoc&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://lierdakil.github.io/pandoc-crossref/&#34;&gt;http://lierdakil.github.io/pandoc-crossref/&lt;/a&gt; - cross referencing in pandoc&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/bookdown/cross-references.html&#34;&gt;https://bookdown.org/yihui/bookdown/cross-references.html&lt;/a&gt; - writing books with pandoc&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;bibulous&#34;&gt;Bibulous&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://nzhagen.github.io/bibulous/&#34;&gt;http://nzhagen.github.io/bibulous/&lt;/a&gt; - Improved bibtex drop in replacement for LaTex&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;tools-etc&#34;&gt;Tools, etc.&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ntalk.de&#34;&gt;http://www.ntalk.de&lt;/a&gt; - very good IRC client for Windows&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://freemind.sourceforge.net&#34;&gt;http://freemind.sourceforge.net&lt;/a&gt; - my mind mapping tool of choice&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://codiad.com/&#34;&gt;http://codiad.com/&lt;/a&gt; - my online editor of choice&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.sosciso.de/&#34;&gt;http://www.sosciso.de/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.phmed.umu.se/enheter/epidemiologi/forskning/open-code/&#34;&gt;OpenCode&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;the-spider-web-of-information&#34;&gt;The spider web of information&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bloomberg.com/businessweek&#34;&gt;https://www.bloomberg.com/businessweek&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.wiwo.de/management/&#34;&gt;http://blog.wiwo.de/management/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://zetoc.mimas.ac.uk&#34;&gt;http://zetoc.mimas.ac.uk&lt;/a&gt; - research and journal alerts&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;art&#34;&gt;Art&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jam-montoya.es/menu.htm&#34;&gt;http://www.jam-montoya.es/menu.htm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fosdem.org/2020/schedule/event/file_sharing_and_storage_for_human_rights_organizations/&#34;&gt;https://fosdem.org/2020/schedule/event/file_sharing_and_storage_for_human_rights_organizations/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -133,16 +54,13 @@
       <pubDate>Thu, 31 Aug 2017 14:01:02 +0200</pubDate>
       
       <guid>https://www.thegoodtorrent.net/about/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;about-this-site&#34;&gt;About this site&lt;/h2&gt;
 &lt;p&gt;Hello,&lt;/p&gt;
-&lt;p&gt;thanks for visiting my site on the internet. These pages are a personal view on management topics. I am a line manager in a large bank and pursue a Doctor of Business Administration. Of course, all expressed opinions and materials are unrelated to my employer and represent a very personal stance. Over the years, I have held various management positions, have spoken at various occasions and started and contributed to several open source software projects - some of my own projects reached a bit of fame.&lt;/p&gt;
-&lt;p&gt;Thanks and have a great day,&lt;/p&gt;
-&lt;p&gt;Ulrich Staudinger &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;thanks for visiting this site on the internet. This site gathers links and personal ramblings about socially relevant, legal, and ethical torrent sites. No illegal stuff, only relevant and on-topic.&lt;/p&gt;
+&lt;p&gt;Thanks and have a great day,
+Your shepherd&lt;/p&gt;
 &lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
 &lt;p&gt;By using this website, you agree that the owner is not liable for anything, neither the effects of you surfing here nor anything else.&lt;/p&gt;
-&lt;h2 id=&#34;contact-details&#34;&gt;Contact details&lt;/h2&gt;
-&lt;p&gt;Should you like to reach out, please send a mail to &lt;a href=&#34;mailto:ustaudinger@gmail.com&#34;&gt;ustaudinger@gmail.com&lt;/a&gt; or connect on &lt;a href=&#34;https://www.linkedin.com/in/ulrichstaudinger/&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;about-this-blog&#34;&gt;About this blog.&lt;/h2&gt;
 &lt;p&gt;This blog runs on &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
 </description>

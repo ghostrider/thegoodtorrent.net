@@ -4,7 +4,17 @@
   
   <url>
     <loc>https://www.thegoodtorrent.net/posts/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thegoodtorrent.net/posts/mldata/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thegoodtorrent.net/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>https://www.thegoodtorrent.net/links/</loc>
-    <lastmod>2017-09-16T10:21:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.thegoodtorrent.net/</loc>
     <lastmod>2017-09-16T10:21:32+02:00</lastmod>
   </url>
   
