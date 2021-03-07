@@ -11,4 +11,4 @@ It's all hugo based.
 Again, you are welcome to contribute, I add new sites very sporadically. 
 
 Thanks and regards,
-GhostRider. 
+Your shepherd GhostRider
