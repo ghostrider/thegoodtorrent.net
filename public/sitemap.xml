@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.thegoodtorrent.net/posts/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <loc>https://www.thegoodtorrent.net/posts/lockss/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.thegoodtorrent.net/posts/mldata/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <loc>https://www.thegoodtorrent.net/posts/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.thegoodtorrent.net/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.thegoodtorrent.net/posts/mldata/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   

@@ -6,10 +6,24 @@
     <description>Recent content on The Good Torrent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.thegoodtorrent.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lots of Copies Keep Stuff Safe</title>
+      <link>https://www.thegoodtorrent.net/posts/lockss/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thegoodtorrent.net/posts/lockss/</guid>
+      <description>&lt;p&gt;The LOCKSS Program, based at Stanford Libraries, provides services and open-source technologies for high-confidence, resilient, secure digital preservation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;URL: &lt;a href=&#34;https://www.lockss.org/&#34;&gt;https://www.lockss.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;URL: &lt;a href=&#34;https://github.com/lockss/lockss-daemon&#34;&gt;https://github.com/lockss/lockss-daemon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Stack Exchange Data Dump</title>
