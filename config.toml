@@ -18,6 +18,7 @@ pygmentscodefencesguesssyntax = true
     info = "The Good Torrent - a site for legal and socially relevant torrents"
     description = "The Good Torrent is a site that tracks legal and socially relevant torrents for the greater good."
     keywords = "torrents, bittorrent, legal"
+    mainSections = ["post"]
 #    avatarurl = "images/avatar.jpg"
 
 #    favicon_32 = "/img/favicon-32x32.png"
